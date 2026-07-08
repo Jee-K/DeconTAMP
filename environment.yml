@@ -1,0 +1,17 @@
+name: decontamp
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - pybullet==3.2.7       # includes pybullet_utils
+    - numpy>=1.24
+    - scipy>=1.10
+    - ifcopenshell>=0.8.3   # IFC file parsing
+    - lark>=1.1             # parser for pddl
+    - six
+    # Fast-Downward (downward/) must be compiled separately:
+    #   cd downward && python build.py
+    # Requires: cmake, g++, libboost-all-dev

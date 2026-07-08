@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs and run outputs
+examples/pybullet/tamp/log/
+examples/pybullet/tamp/temp/
+examples/pybullet/tamp/statistics/
+*.log
+*.json
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Fast-Downward compiled binaries (build with: cd downward && python build.py)
+downward/builds/
+downward/search/
+downward/CMakeFiles/
+
+# Robot models (large mesh/urdf assets — store via Git LFS or separately)
+examples/pybullet/utils/models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
