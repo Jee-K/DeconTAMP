@@ -1,0 +1,1058 @@
+{
+  "schema_version": 1,
+  "source_ifc": "/home/jeehoonkim/workspace/TAMP/pddlstream/examples/pybullet/tamp/timber_frame_1m_ranked.ifc",
+  "group_order": [
+    "blocking",
+    "joist",
+    "beam",
+    "column"
+  ],
+  "aabb_min": [
+    -8.882584868128589,
+    15.037916264834697,
+    0.0
+  ],
+  "aabb_max": [
+    -7.84258486812859,
+    15.8779162648347,
+    0.6
+  ],
+  "members": [
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXjS",
+      "name": "Timber_Blocking_5_40_591382",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -7.95258486812859,
+        15.615416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -7.872584868128596,
+        15.6204162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999385,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -7.912584868128594,
+        15.6179162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXjs",
+      "name": "Timber_Blocking_5_40_591420",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -7.95258486812859,
+        15.255416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -7.872584868128596,
+        15.260416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999385,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -7.912584868128594,
+        15.2579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfW2",
+      "name": "Timber_Joist_20_60_590110",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -8.572584868128592,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -8.552584868128589,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -8.56258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfXw",
+      "name": "Timber_Joist_20_60_590182",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -8.47258486812859,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -8.452584868128588,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -8.46258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfY$",
+      "name": "Timber_Joist_20_60_590243",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -8.272584868128591,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -8.252584868128588,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -8.26258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfYR",
+      "name": "Timber_Joist_20_60_590215",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -8.372584868128591,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -8.352584868128588,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -8.36258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfZM",
+      "name": "Timber_Joist_20_60_590282",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -7.872584868128591,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -7.852584868128588,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -7.8625848681285895,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfZp",
+      "name": "Timber_Joist_20_60_590319",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -7.972584868128592,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -7.9525848681285884,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -7.96258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfbc",
+      "name": "Timber_Beam_40_80_589946",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Beam_40_80",
+      "group": "beam",
+      "removal_rank": 2,
+      "aabb_min": [
+        -8.84258486812859,
+        15.037916264834697,
+        0.5199999999999999
+      ],
+      "aabb_max": [
+        -7.882584868128589,
+        15.0779162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.9600000000000009,
+        0.0400000000000027,
+        0.08000000000000007
+      ],
+      "center": [
+        -8.36258486812859,
+        15.057916264834699,
+        0.5599999999999999
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfbz",
+      "name": "Timber_Beam_40_80_589921",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Beam_40_80",
+      "group": "beam",
+      "removal_rank": 2,
+      "aabb_min": [
+        -8.84258486812859,
+        15.837916264834698,
+        0.5199999999999999
+      ],
+      "aabb_max": [
+        -7.882584868128589,
+        15.8779162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.9600000000000009,
+        0.0400000000000027,
+        0.08000000000000007
+      ],
+      "center": [
+        -8.36258486812859,
+        15.8579162648347,
+        0.5599999999999999
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfc8",
+      "name": "Timber_Joist_20_60_589972",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -8.872584868128591,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -8.852584868128588,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -8.86258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfch",
+      "name": "Timber_Joist_20_60_590007",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -8.772584868128591,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -8.752584868128588,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -8.76258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfdj",
+      "name": "Timber_Joist_20_60_590065",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -8.672584868128592,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -8.652584868128589,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -8.66258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfeL",
+      "name": "Timber_Blocking_5_40_590601",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.85258486812859,
+        15.655416264834699,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.772584868128597,
+        15.660416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999297,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.812584868128592,
+        15.6579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHffI",
+      "name": "Timber_Blocking_5_40_590670",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.85258486812859,
+        15.295416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.772584868128597,
+        15.3004162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999297,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.812584868128592,
+        15.297916264834699,
+        0.58
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfiI",
+      "name": "Timber_Joist_20_60_590350",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -8.072584868128592,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -8.052584868128589,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -8.06258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHfiq",
+      "name": "Timber_Joist_20_60_590376",
+      "ifc_type": "IfcBeam",
+      "source_type": "Timber:Joist_20_60",
+      "group": "joist",
+      "removal_rank": 1,
+      "aabb_min": [
+        -8.172584868128592,
+        15.0779162648347,
+        0.5399999999999999
+      ],
+      "aabb_max": [
+        -8.152584868128589,
+        15.8379162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.020000000000003126,
+        0.7599999999999998,
+        0.06000000000000005
+      ],
+      "center": [
+        -8.16258486812859,
+        15.4579162648347,
+        0.57
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHsGc",
+      "name": "PSL_Parallel_Strand_Lumber_Column_40_40_589114",
+      "ifc_type": "IfcColumn",
+      "source_type": "PSL-Parallel Strand Lumber-Column:40_40",
+      "group": "column",
+      "removal_rank": 3,
+      "aabb_min": [
+        -8.882584868128589,
+        15.8379162648347,
+        0.0
+      ],
+      "aabb_max": [
+        -8.84258486812859,
+        15.877916264834699,
+        0.6
+      ],
+      "dimensions": [
+        0.03999999999999915,
+        0.03999999999999915,
+        0.6
+      ],
+      "center": [
+        -8.86258486812859,
+        15.8579162648347,
+        0.3
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHsJj",
+      "name": "PSL_Parallel_Strand_Lumber_Column_40_40_589297",
+      "ifc_type": "IfcColumn",
+      "source_type": "PSL-Parallel Strand Lumber-Column:40_40",
+      "group": "column",
+      "removal_rank": 3,
+      "aabb_min": [
+        -7.882584868128589,
+        15.8379162648347,
+        0.0
+      ],
+      "aabb_max": [
+        -7.84258486812859,
+        15.877916264834699,
+        0.6
+      ],
+      "dimensions": [
+        0.03999999999999915,
+        0.03999999999999915,
+        0.6
+      ],
+      "center": [
+        -7.8625848681285895,
+        15.8579162648347,
+        0.3
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHsPv",
+      "name": "PSL_Parallel_Strand_Lumber_Column_40_40_589669",
+      "ifc_type": "IfcColumn",
+      "source_type": "PSL-Parallel Strand Lumber-Column:40_40",
+      "group": "column",
+      "removal_rank": 3,
+      "aabb_min": [
+        -8.882584868128589,
+        15.0379162648347,
+        0.0
+      ],
+      "aabb_max": [
+        -8.84258486812859,
+        15.077916264834698,
+        0.6
+      ],
+      "dimensions": [
+        0.03999999999999915,
+        0.03999999999999915,
+        0.6
+      ],
+      "center": [
+        -8.86258486812859,
+        15.057916264834699,
+        0.3
+      ]
+    },
+    {
+      "guid": "2r0a9HYNf76uMSS85nHsQP",
+      "name": "PSL_Parallel_Strand_Lumber_Column_40_40_589701",
+      "ifc_type": "IfcColumn",
+      "source_type": "PSL-Parallel Strand Lumber-Column:40_40",
+      "group": "column",
+      "removal_rank": 3,
+      "aabb_min": [
+        -7.882584868128589,
+        15.0379162648347,
+        0.0
+      ],
+      "aabb_max": [
+        -7.84258486812859,
+        15.077916264834698,
+        0.6
+      ],
+      "dimensions": [
+        0.03999999999999915,
+        0.03999999999999915,
+        0.6
+      ],
+      "center": [
+        -7.8625848681285895,
+        15.057916264834699,
+        0.3
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXWc",
+      "name": "Timber_Blocking_5_40_591212",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.252584868128586,
+        15.655416264834699,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.172584868128592,
+        15.660416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.21258486812859,
+        15.6579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXXI",
+      "name": "Timber_Blocking_5_40_591128",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.352584868128588,
+        15.255416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.272584868128593,
+        15.260416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.31258486812859,
+        15.2579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXXc",
+      "name": "Timber_Blocking_5_40_591148",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.252584868128586,
+        15.295416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.172584868128592,
+        15.3004162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.21258486812859,
+        15.297916264834699,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXY0",
+      "name": "Timber_Blocking_5_40_591306",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.052584868128587,
+        15.295416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -7.972584868128593,
+        15.3004162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999385,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.01258486812859,
+        15.297916264834699,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXYz",
+      "name": "Timber_Blocking_5_40_591351",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.052584868128587,
+        15.655416264834699,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -7.972584868128593,
+        15.660416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999385,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.01258486812859,
+        15.6579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXZ4",
+      "name": "Timber_Blocking_5_40_591246",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.152584868128587,
+        15.615416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.072584868128592,
+        15.6204162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.11258486812859,
+        15.6179162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXZu",
+      "name": "Timber_Blocking_5_40_591282",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.152584868128587,
+        15.255416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.072584868128592,
+        15.260416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.11258486812859,
+        15.2579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXaF",
+      "name": "Timber_Blocking_5_40_590917",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.652584868128587,
+        15.655416264834699,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.572584868128592,
+        15.660416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.61258486812859,
+        15.6579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXal",
+      "name": "Timber_Blocking_5_40_590949",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.652584868128587,
+        15.295416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.572584868128592,
+        15.3004162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.61258486812859,
+        15.297916264834699,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXaq",
+      "name": "Timber_Blocking_5_40_590974",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.552584868128587,
+        15.615416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.472584868128592,
+        15.6204162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.51258486812859,
+        15.6179162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXb9",
+      "name": "Timber_Blocking_5_40_590851",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.752584868128586,
+        15.615416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.672584868128592,
+        15.6204162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.71258486812859,
+        15.6179162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXbk",
+      "name": "Timber_Blocking_5_40_590884",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.752584868128586,
+        15.255416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.672584868128592,
+        15.260416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.71258486812859,
+        15.2579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXcK",
+      "name": "Timber_Blocking_5_40_591070",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.452584868128588,
+        15.655416264834699,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.372584868128593,
+        15.660416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.41258486812859,
+        15.6579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXcy",
+      "name": "Timber_Blocking_5_40_591094",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.352584868128588,
+        15.615416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.272584868128593,
+        15.6204162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.31258486812859,
+        15.6179162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXdh",
+      "name": "Timber_Blocking_5_40_591009",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.552584868128587,
+        15.255416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.472584868128592,
+        15.260416264834701,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.51258486812859,
+        15.2579162648347,
+        0.58
+      ]
+    },
+    {
+      "guid": "0wbyWtKAHBtRWZ3c5ZjXdp",
+      "name": "Timber_Blocking_5_40_591033",
+      "ifc_type": "IfcMember",
+      "source_type": "Timber:Blocking_5_40",
+      "group": "blocking",
+      "removal_rank": 0,
+      "aabb_min": [
+        -8.452584868128588,
+        15.295416264834698,
+        0.5599999999999999
+      ],
+      "aabb_max": [
+        -8.372584868128593,
+        15.3004162648347,
+        0.6
+      ],
+      "dimensions": [
+        0.07999999999999474,
+        0.005000000000002558,
+        0.040000000000000036
+      ],
+      "center": [
+        -8.41258486812859,
+        15.297916264834699,
+        0.58
+      ]
+    }
+  ]
+}

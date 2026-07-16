@@ -15,6 +15,7 @@ examples/pybullet/tamp/temp/
 examples/pybullet/tamp/statistics/
 *.log
 *.json
+!IFC2SIM/example_scene.json
 
 # Jupyter
 .ipynb_checkpoints/
